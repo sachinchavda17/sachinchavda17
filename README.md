@@ -11,7 +11,11 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://sachinchavda.vercel.app](https://sachinchavda.vercel.app)
+- 🎵 Music Player app using MERN [Spotify Clone](https://spotify-clone-beryl-seven.vercel.app)
+
+- ⚒️ My personal Portfolio [Portfolio](https://sachinchavda.vercel.app)
+
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/sachinchavda17?tab=repositories)
 
 - 📫 How to reach me **sachinchavda234@gmail.com**
 

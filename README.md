@@ -15,9 +15,9 @@
 
 - 🎵 Music Player app using MERN [Spotify Clone](https://spotify-clone-beryl-seven.vercel.app)
 
-- E-Commerce web app using MERN [SwiftBuy](https://swift-buy-six.vercel.app)
+- 🛒 E-Commerce web app using MERN [SwiftBuy](https://swift-buy-six.vercel.app)
 
-- Chat app using MERN [ChatApp](https://chatapp-lfr0.onrender.com)
+- 📱 Chat app using MERN [ChatApp](https://chatapp-lfr0.onrender.com)
 
 - 👨‍💻 All of my projects are available at [Github Repo](https://github.com/sachinchavda17?tab=repositories)
 

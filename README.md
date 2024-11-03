@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on **Social Media Web App using MERN Stack**
 
+- ⚒️ My personal Portfolio [Portfolio](https://sachinchavda.vercel.app)
+- 
+- 🍊 Food Delivery web app using MERN [BiteHub24](https://bitehub24.vercel.app)
+
 - 🎵 Music Player app using MERN [Spotify Clone](https://spotify-clone-beryl-seven.vercel.app)
 
 - E-Commerce web app using MERN [SwiftBuy](https://swift-buy-six.vercel.app)
 
 - Chat app using MERN [ChatApp](https://chatapp-lfr0.onrender.com)
-
-- ⚒️ My personal Portfolio [Portfolio](https://sachinchavda.vercel.app)
 
 - 👨‍💻 All of my projects are available at [Github Repo](https://github.com/sachinchavda17?tab=repositories)
 

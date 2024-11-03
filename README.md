@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Social Media Web App using MERN Stack**
 
 - ⚒️ My personal Portfolio [Portfolio](https://sachinchavda.vercel.app)
-- 
+
 - 🍊 Food Delivery web app using MERN [BiteHub24](https://bitehub24.vercel.app)
 
 - 🎵 Music Player app using MERN [Spotify Clone](https://spotify-clone-beryl-seven.vercel.app)

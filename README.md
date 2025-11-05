@@ -13,7 +13,7 @@
 
 - 🍊 Food Delivery web app using MERN [BiteHub24](https://bitehub24.vercel.app)
 
-- 🎵 Music Player app using MERN [Spotify Clone](https://spotify-clone-beryl-seven.vercel.app)
+- 🎵 Music Player app using MERN [BeatFlow](https://spotify-clone-beryl-seven.vercel.app)
 
 - 🛒 E-Commerce web app using MERN [SwiftBuy](https://swift-buy-six.vercel.app)
 
